@@ -4,8 +4,6 @@ import requests
 import json
 import time
 
-# sam lu chatbot!
-
 kernel = aiml.Kernel()
 
 # load every aiml file in the 'standard' directory
