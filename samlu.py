@@ -15,8 +15,8 @@ kernel = aiml.Kernel()
 for filename in aiml_filenames:
   kernel.learn(filename)
 
-google_key = "AIzaSyBgnYIzm9cy35mCCzOluGV7ui1pdlJU0p0"
-darksky_key = "076dc86d7cb7257732dc807d0b9a44f6"
+google_key =
+darksky_key = 
 
 CACHE_FNAME = 'cache.json'
 
