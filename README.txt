@@ -1,6 +1,3 @@
-ADD:
-- Samantha Lu
-- 65725776
 - Run the file named samlu.py!
 - The chatbot accepts inputs such as "Is it going to rain in Detroit today?" and "What's the weather like in Ann Arbor?", so make sure that your inputs are structured in the same way that the kernel patterns are. The city names are replaceable with any city.
 
